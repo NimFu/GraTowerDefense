@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c3ee9bdffb0039a458daa95084fd7156
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - efektObrazen: {fileID: 653355311112860769, guid: ab5875ff5f606384c931947e976d84ae,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
