@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Przeciwnicy
+  - WiezaStandardowa
   layers:
   - Default
   - TransparentFX
